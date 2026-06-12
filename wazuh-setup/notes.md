@@ -1,4 +1,4 @@
-# Week 1: Wazuh Mini SOC Lab Setup
+# Wazuh Mini SOC Lab Setup
 
 ## Objective
 Set up a basic SOC lab using Wazuh to monitor a Windows endpoint and collect security events.
