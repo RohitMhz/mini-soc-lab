@@ -15,7 +15,7 @@ Set up a basic SOC lab using Wazuh to monitor a Windows endpoint and collect sec
 - Installed Wazuh server, dashboard, and indexer
 - Configured networking between host Windows and Wazuh VM
 - Installed Wazuh agent on Windows
-- Verified the Windows endpoint appeared as active in Wazuh
+- Verified the Windows endpoint appeared as active in Wazuh dashboard
 
 ## Skills Practiced
 - Virtual machine setup
