@@ -53,10 +53,10 @@ Windows Host Machine
 - Investigated failed and successful login events in Wazuh
 - Practiced basic alert triage and SOC-style documentation
 
-## Next Steps
+### Linux Log Reporting
 
-* Generate safe Windows security events
-* Review alerts in Wazuh
-* Analyze authentication-related events
-* Write SOC-style incident reports
-* Expand the lab with additional detection and monitoring scenarios
+- Reviewed Linux authentication and sudo-related logs.
+- Generated a safe sudo event using <code>sudo whoami </code>.
+- Confirmed the event in the local log event file.
+- Located the same sudo event in the Wazuh dashboard.
+- Practiced Linux privilege activity monitoring and SIEM-based investigation.
