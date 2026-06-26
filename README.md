@@ -60,3 +60,10 @@ Windows Host Machine
 - Confirmed the event in the local log event file.
 - Located the same sudo event in the Wazuh dashboard.
 - Practiced Linux privilege activity monitoring and SIEM-based investigation.
+
+### Authentication Analysis
+
+- Compared windows failed login, successful login, and Linux sudo command execution events.
+- Reviewed authentication-related events in Wazuh.
+- Practiced identifying normal vs potentially suspicious authentication behavior.
+- Documented findings using a SOC analyst-style format.
